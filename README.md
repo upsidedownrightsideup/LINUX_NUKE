@@ -24,6 +24,7 @@ If you encounter any issues or have any questions about using AsmDefender, pleas
 If you find my project useful, consider supporting its development by making a donation to the following Bitcoin address: bc1q6lkwn3aqe97r5am6ntu5rugd587g363y6e2e3eshr3hp2706ungqzuuw22
 
 Supports transactions only in Bitcoin (BTC)
+![image](https://user-images.githubusercontent.com/128254448/232265014-e8519297-0076-4b6e-8c54-86c6013422b9.png)
 
 
 
